@@ -1,5 +1,5 @@
 # Mechatronics - Feedback Control of LED Brightness
-This is the second to last project of the course MECH_ENG_333, which I took in the winter of 2021, which uses C, PuTTY, and MATLAB to use feedback control to alter the brightness of an LED. This project uses counter/timer, output compare, and analog input peripherals, as well as the parallel master port for the LCD screen. The sensor that measures the brightness of the LED tracks the desired brightness, as shown by the square waves in MatLab in the video, demonstrating that the feedback control is successful.
+This is the second to last project of the course MECH_ENG_333, which I took in the winter of 2021, which uses C, PuTTY, and MATLAB to use feedback control to alter the brightness of an LED. This project uses counter/timer, output compare, and analog input peripherals, as well as the parallel master port for the LCD screen. The sensor that measures the brightness of the LED tracks the desired brightness, as shown by the square waves in MATLAB in the video, demonstrating that the feedback control is successful.
 
 ## How to run
 
@@ -13,7 +13,7 @@ This is the second to last project of the course MECH_ENG_333, which I took in t
 
 ## Notes
 
-The final iteration of the project is in 24.8, but the steps along the way are recorded in the other folders. The resistor values, amongst others, can be changed and modified according to need.
+The final iteration of the project is in 24.8, but the steps along the way are recorded in the other folders. The resistor values, amongst others, can be changed and modified according to need. A working video is available in this repository, as well as the assignment write-up.
 
 ## License
 
