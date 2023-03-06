@@ -5,9 +5,9 @@ This is the second to last project of the course MECH_ENG_333, which I took in t
 
 1. Wire the circutboard as shown in the picture in the assignment writeup.
 2. Load talkingPIC.c navigating to the 24.8 folder in the command prompt. 
-3. Build the project by typing ```bash make```, which would assemble the C files into O object files.
+3. Build the project by typing ```make```, which would assemble the C files into O object files.
 4. Put the PIC32 into receive mode by pressing the RESET and USER buttons on the microcontroller.
-5. Run ```bash make write```, which would activate the bootloader utility nu32utility and program the PIC32 with out.hex.
+5. Run ```make write```, which would activate the bootloader utility nu32utility and program the PIC32 with out.hex.
 6. Open a serial port in MATLAB by running talkingPIC.m. 
 7. PIC32 will send 200 plot points to MATLAB running the code in pid_plot.m
 
