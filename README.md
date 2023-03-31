@@ -19,4 +19,4 @@ The final iteration of the project is in the "project" folder. The resistor valu
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) 
